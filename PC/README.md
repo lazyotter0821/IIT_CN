@@ -25,26 +25,21 @@
 
 ```
 tax_calculator/
-├── PC/
-│   ├── tax_calculator_cumulative.html    # 电脑版计算器
-│   └── README.md                        # 电脑版说明文档
+├── tax_calculator_cumulative.html    # 电脑版计算器
 ├── tax_calculator_mobile.html        # 手机版计算器
-├── .gitignore                        # Git忽略文件
-└── README.md                        # 主说明文档
+└── README.md                        # 说明文档
 ```
 
 ## 如何使用
 
 ### 本地使用
 1. 下载或克隆本仓库
-2. 直接在浏览器中打开：
-   - 电脑版：`PC/tax_calculator_cumulative.html`
-   - 手机版：`tax_calculator_mobile.html`
+2. 直接在浏览器中打开 `tax_calculator_cumulative.html`（电脑版）或 `tax_calculator_mobile.html`（手机版）
 3. 输入相关参数，点击"计算"按钮查看结果
 
 ### 在线访问
 通过GitHub Pages访问（发布后）：
-- 电脑版：`https://your-username.github.io/tax-calculator/PC/tax_calculator_cumulative.html`
+- 电脑版：`https://your-username.github.io/tax-calculator/tax_calculator_cumulative.html`
 - 手机版：`https://your-username.github.io/tax-calculator/tax_calculator_mobile.html`
 
 ## 主要参数说明
