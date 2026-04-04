@@ -128,4 +128,4 @@ MIT License
 
 ## 联系方式
 
-如有问题或建议，请联系：terry@example.com
+如有问题或建议，请联系：lazyotter@163.com
